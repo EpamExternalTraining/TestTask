@@ -1,0 +1,4 @@
+﻿Circle;5
+Rectangle;2;5
+Square;2
+Trapezoid;2;1;5;5

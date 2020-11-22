@@ -1,0 +1,16 @@
+E:\Projects\Epam\Task1\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.deps.json
+E:\Projects\Epam\Task1\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.dll
+E:\Projects\Epam\Task1\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.pdb
+E:\Projects\Epam\Task1\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.AssemblyInfoInputs.cache
+E:\Projects\Epam\Task1\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.AssemblyInfo.cs
+E:\Projects\Epam\Task1\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\Epam\Task1\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.dll
+E:\Projects\Epam\Task1\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.pdb
+E:\Projects\EpamExternalTraining\TestTask\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.deps.json
+E:\Projects\EpamExternalTraining\TestTask\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.dll
+E:\Projects\EpamExternalTraining\TestTask\FiguresLibrary\bin\Debug\netcoreapp3.1\FiguresLibrary.pdb
+E:\Projects\EpamExternalTraining\TestTask\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.AssemblyInfoInputs.cache
+E:\Projects\EpamExternalTraining\TestTask\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.AssemblyInfo.cs
+E:\Projects\EpamExternalTraining\TestTask\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\EpamExternalTraining\TestTask\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.dll
+E:\Projects\EpamExternalTraining\TestTask\FiguresLibrary\obj\Debug\netcoreapp3.1\FiguresLibrary.pdb
