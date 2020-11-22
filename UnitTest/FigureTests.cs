@@ -20,7 +20,7 @@ namespace UnitTest
         private readonly IFigureFileWorker _fileWorker = new CSVFileFigureFileWorker();
 
         [DataRow("Error")]
-        [DataTestMethod, Description("Reading CSV data and catch expection")]
+        [DataTestMethod, Description("Reading CSV data and catch exception")]
         public void ReadingCSVDataFromTextFile_Exception(string fileName)
         {
             Assert.ThrowsException<Exception>(() => _fileWorker.GetFigures(fileName));
@@ -36,7 +36,7 @@ namespace UnitTest
 
 
         [DataRow(null)]
-        [DataTestMethod, Description("Reading CSV data and catch ArgumentNullExpection")]
+        [DataTestMethod, Description("Reading CSV data and catch ArgumentNullException")]
         public void ReadingCSVDataFromTextFile_ArgumentException(string fileName)
         {
             Assert.ThrowsException<ArgumentNullException>(() => _fileWorker.GetFigures(null));
